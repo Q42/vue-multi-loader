@@ -1,3 +1,5 @@
+### This is now the official Vue loader, the latest version can be found at https://github.com/vuejs/vue-loader
+
 # vue-multi-loader
 
 > Vue.js component loader for [Webpack](http://webpack.github.io), using Webpack loaders for the parts.
